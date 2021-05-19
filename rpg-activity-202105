@@ -1,7 +1,7 @@
 {
   "data": {
     "covid" : 50,
-    "hex-feedback": 2,
-    "hex-complete": 2
+    "feedback": 2,
+    "complete": 2
   }
 }
